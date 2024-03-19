@@ -16,7 +16,7 @@
 
 <img src="./docs/data.PNG" height="160" width="380" style="border: 1px solid black;">
 
-d Email id <br>and reset the password.
+
 
 <img src="./docs/forgetpass.PNG" height="200" width="400" style="border: 1px solid black;">
 
