@@ -1,4 +1,4 @@
-
+<h1 align="center">
     <b>User Registration & Login  </b> 
 <br>
 </h1>
